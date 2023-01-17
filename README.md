@@ -1,4 +1,4 @@
-# time_series_transportes
+# Series Temporales (time series)
 Proyecto realizado para predecir el número de repartos a realizar por una empresa de transportes.
 
 ## Autor
