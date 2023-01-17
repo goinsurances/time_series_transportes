@@ -1,6 +1,8 @@
 # Series Temporales (time series)
 Proyecto realizado para predecir el número de repartos a realizar por una empresa de transportes.
 
+Al ser un proyecto privado, solo puede compartir un documento, donde se explican cada una de las tareas realizadas durante el proyecto.
+
 ## Autor
 **Antonio Justicia López**
 
